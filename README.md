@@ -9,10 +9,7 @@ Fitur-fitur utama:
 Proyek ini mencakup:
 1. Desain casing produk menggunakan Solidworks
 2. Studi dan implementasi komponen elektronika, termasuk:
-   Sensor
-   Mikrokontroler
-   Aktuator
-   Sistem baterai
+   Sensor, mikrokontroler, aktuator, dan sistem baterai
 
 Tujuan proyek ini adalah mengembangkan solusi pembersihan jendela yang inovatif, efisien, dan ramah pengguna untuk bangunan modern.
 ![WhatsApp Image 2024-08-07 at 14 15 19_7eae7791](https://github.com/user-attachments/assets/43e1fae9-b6d6-4c6e-863e-e4cdeeeaf6b9)
