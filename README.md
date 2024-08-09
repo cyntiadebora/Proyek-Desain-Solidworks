@@ -17,3 +17,5 @@ Tujuan proyek ini adalah mengembangkan solusi pembersihan jendela yang inovatif,
 ![WhatsApp Image 2024-08-07 at 14 16 33_303c9b9e](https://github.com/user-attachments/assets/465441c7-300b-4770-9555-1e76b41ac1f3)
 
 ![WhatsApp Image 2024-08-07 at 14 16 59_f47fe5b5](https://github.com/user-attachments/assets/6b5bd92f-6ca2-4265-abad-ebefc64e328c)
+
+![image](https://github.com/user-attachments/assets/fc1746a4-14e4-4f3c-86c0-774ecc2c45d4)
