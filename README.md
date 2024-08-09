@@ -1,5 +1,6 @@
 # Proyek-Desain-Solidworks
 Smart Window Cleaner adalah sistem cerdas yang dirancang untuk membersihkan jendela secara efisien dengan konsumsi daya minimal. 
+
 Fitur-fitur utama:
 1. Otomatisasi penuh: Beroperasi tanpa perlu sentuhan langsung
 2. Kontrol jarak jauh: Dikendalikan melalui remote control untuk pengoperasian yang mudah
